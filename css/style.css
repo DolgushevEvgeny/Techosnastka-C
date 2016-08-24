@@ -182,25 +182,20 @@ header {
 	margin-bottom: 20px;
 }
 
-.our-works h3 {
-	color: #fff;
-	text-align: center;
-	vertical-align: middle;
-}
-
 .our-works p {
 	text-align: center;
-	vertical-align: baseline;
 }
 
 .equipment-examples {
 	float: left;
 	height: 100%;
 	width: 50%;
+	padding: 10% 0;
 }
 
 .equipment-examples h3 {
-	color: #000;
+	margin-top: 0;
+	text-align: center;
 }
 
 .equipment-examples-image {
@@ -213,10 +208,12 @@ header {
 	float: right;
 	height: 100%;
 	width: 50%;
+	padding: 10% 0;
 }
 
 .section-examples h3 {
-	color: #000;
+	margin-top: 0;
+	text-align: center;
 }
 
 .section-examples-image {
