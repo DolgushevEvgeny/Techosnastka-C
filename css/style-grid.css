@@ -1,0 +1,185 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	color: #fff;
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+h2 {
+	color: #000;
+	font-size: 30px;
+	line-height: 1;
+	margin: 40px 0 50px;
+	text-align: center;
+}
+
+h3 {
+	color: #000;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+.navbar-header {
+	margin-left: -30px;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+.about-company {
+	background-image: url(../images/134136.jpg);
+	padding: 50px 0;
+}
+
+.text-about-company {
+	color: #fff;
+	font-size: 16px;
+	line-height: 1.75;
+	margin-bottom: 30px;
+}
+
+.video {
+	text-decoration: none;
+	color: #fff;
+}
+
+.play-video-about-us {
+	margin-left: 10px;
+}
+
+.advantage {
+	text-align: center;
+}
+
+.advantage-icon {
+	width: 70px;
+	height: 70px;
+	margin: 0 auto;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.price {
+	background-image: url(../images/money.png);
+}
+
+.quality {
+	background-image: url(../images/quality.png);
+}
+
+.car {
+	background-position: 0 7px;
+	background-image: url(../images/car.png);
+}
+
+.step-index {
+	border: 1px solid black;
+	border-radius: 50%;
+	font-size: 34px;
+	font-weight: bold;
+	display: block;
+	position: absolute;
+	text-align: center;
+	height: 50px;
+	width: 50px;
+	top: 20px;
+	left: 10px;
+}
+
+#step-2 {
+	top: 185px;
+}
+
+#step-4 {
+	top: 145px;
+}
+
+.description {
+	position: relative;
+	padding-left: 80px;
+	line-height: 1.5;
+	box-sizing: border-box;
+}
+
+.description p {
+	margin-top: 10px;
+}
+
+.step-image {
+	margin-top: 20px;
+}
+
+.equipment {
+	
+}
+
+.row-flex {
+	display: flex;
+	flex-flow: row wrap;
+}
+
+.equipment-examples {
+	padding: 10% 0;
+	text-align: center;
+	background-color: #646464;
+}
+
+.image-example {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.equipment-examples-image {
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 300px;
+}
+
+.section-examples {
+	padding: 10% 0;
+	text-align: center;
+	background-color: #646464;
+}
+
+.section-examples-image {
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 300px;
+}
+
+.request {
+	background-color: #646464;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 30px;
+}
+
+.retain-request {
+	color: #000;
+	background-color: #fff;
+	border: 1px solid #000;
+	border-radius: 5px; 
+	text-decoration: none;
+	font-size: 24px;
+	padding: 10px 20px;
+}
+
+.retain-request:hover {
+	text-decoration: none;
+}
+
+.footer {
+	border-top: 1px solid #000;
+	text-align: center;
+	margin: 20px 0;
+}
+
+.company-brand {
+	font-size: 18px;
+	display: block;
+}
