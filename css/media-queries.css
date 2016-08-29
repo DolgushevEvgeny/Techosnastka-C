@@ -1,0 +1,41 @@
+@media (max-width: 999px) {
+	#step-2 {
+		top: 230px;
+	}
+
+	#step-4 {
+		top: 165px;
+	}
+}
+
+@media (max-width: 767px) {
+	.step-index {
+		position: static;
+		margin: 0 auto;
+	}
+	
+	.description {
+		text-align: center;
+	}
+	
+	.step-description {
+		text-align: center;
+	}
+	
+	.image-outer {
+		margin: 0 auto 25px;
+		float: none;
+	}
+	
+	.equipment-examples {
+		height: 300px;
+	}
+	
+	.image-example {
+		height: 300px;
+	}
+	
+	.section-examples {
+		height: 300px;
+	}
+}
