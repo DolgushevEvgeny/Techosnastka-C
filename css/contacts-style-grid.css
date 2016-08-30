@@ -1,0 +1,52 @@
+* {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	color: #000;
+	font-size: 40px;
+	text-align: center;
+}
+
+h2 {
+	color: #000;
+	font-size: 24px;
+}
+
+h3 {
+	color: #000;
+	font-size: 16px;
+	margin-top: 25px;
+}
+
+.navbar-header {
+	margin-left: -30px;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+.navbar-inverse .navbar-nav  > li > a {
+	color: #fff;
+}
+
+.navbar-brand {
+	padding: 0px 0px 0px 20px;
+}
+
+.logo-image {
+	height: 50px;
+}
+
+.footer {
+	border-top: 2px solid #000;
+	text-align: center;
+	margin: 20px 0;
+}
+
+.company-brand {
+	font-size: 18px;
+	display: block;
+}
+
