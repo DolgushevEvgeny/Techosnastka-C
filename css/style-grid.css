@@ -30,6 +30,18 @@ h3 {
 	float: right;
 }
 
+.navbar-inverse .navbar-nav  > li > a {
+	color: #fff;
+}
+
+.navbar-brand {
+	padding: 0px 0px 0px 20px;
+}
+
+.logo-image {
+	height: 50px;
+}
+
 .about-company {
 	background-image: url(../images/134136.jpg);
 	padding: 50px 0;
@@ -125,7 +137,15 @@ h3 {
 .equipment-examples {
 	padding: 10% 0;
 	text-align: center;
-	background-color: #646464;
+	border: 2px solid #000;
+}
+
+.equipment-examples h3 {
+	font-size: 24px;
+}
+
+.equipment-examples p {
+	font-size: 18px;
 }
 
 .image-example {
@@ -142,7 +162,15 @@ h3 {
 .section-examples {
 	padding: 10% 0;
 	text-align: center;
-	background-color: #646464;
+	border: 2px solid #000;
+}
+
+.section-examples h3 {
+	font-size: 24px;
+}
+
+.section-examples p {
+	font-size: 18px;
 }
 
 .section-examples-image {
@@ -152,7 +180,7 @@ h3 {
 }
 
 .request {
-	background-color: #646464;
+	background-color: #000;
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -163,7 +191,7 @@ h3 {
 	color: #000;
 	background-color: #fff;
 	border: 1px solid #000;
-	border-radius: 5px; 
+	border-radius: 10px; 
 	text-decoration: none;
 	font-size: 24px;
 	padding: 10px 20px;
