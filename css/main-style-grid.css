@@ -138,6 +138,7 @@ h3 {
 	padding: 10% 0;
 	text-align: center;
 	border: 2px solid #000;
+	height: 100%;
 }
 
 .equipment-examples h3 {
@@ -149,14 +150,13 @@ h3 {
 }
 
 .image-example {
-	padding-left: 0px;
-	padding-right: 0px;
+	height: 100%;
+	width: 100%;
 }
 
 .equipment-examples-image {
 	background-size: contain;
 	background-repeat: no-repeat;
-	height: 300px;
 }
 
 .section-examples {
