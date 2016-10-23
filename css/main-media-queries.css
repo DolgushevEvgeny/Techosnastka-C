@@ -9,33 +9,33 @@
 }
 
 @media (max-width: 767px) {
-	.step-index {
+	.texosnastka__step-index {
 		position: static;
 		margin: 0 auto;
 	}
-	
-	.description {
+
+	.texosnastka__description {
 		text-align: center;
 	}
-	
-	.step-description {
+
+	.texosnastka__step-description {
 		text-align: center;
 	}
-	
-	.image-outer {
+
+	.texosnastka__image-outer {
 		margin: 0 auto 25px;
 		float: none;
 	}
-	
-	.equipment-examples {
+
+	.texosnastka__equipment-examples {
 		height: 300px;
 	}
-	
-	.image-example {
+
+	.texosnastka__image-example {
 		height: 300px;
 	}
-	
-	.section-examples {
+
+	.texosnastka__section-examples {
 		height: 300px;
 	}
 }

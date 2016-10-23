@@ -2,13 +2,13 @@
 	font-family: 'Roboto', sans-serif;
 }
 
-h1 {
+.texosnastka__h1 {
 	color: #fff;
 	font-size: 40px;
 	margin-bottom: 20px;
 }
 
-h2 {
+.texosnastka__h2 {
 	color: #000;
 	font-size: 30px;
 	line-height: 1;
@@ -16,7 +16,7 @@ h2 {
 	text-align: center;
 }
 
-h3 {
+.texosnastka__h3 {
 	color: #000;
 	font-size: 20px;
 	margin-top: 20px;
@@ -42,32 +42,32 @@ h3 {
 	height: 50px;
 }
 
-.about-company {
+.texosnastka__about-company {
 	background-image: url(../images/134136.jpg);
 	padding: 50px 0;
 }
 
-.text-about-company {
+.texosnastka__text-about-company {
 	color: #fff;
 	font-size: 16px;
 	line-height: 1.75;
 	margin-bottom: 30px;
 }
 
-.video {
+.texosnastka__video {
 	text-decoration: none;
 	color: #fff;
 }
 
-.play-video-about-us {
+.texosnastka__play-video-about-us {
 	margin-left: 10px;
 }
 
-.advantage {
+.texosnastka__advantage {
 	text-align: center;
 }
 
-.advantage-icon {
+.texosnastka__advantage-icon {
 	width: 70px;
 	height: 70px;
 	margin: 0 auto;
@@ -75,20 +75,20 @@ h3 {
 	background-repeat: no-repeat;
 }
 
-.price {
+.texosnastka__price {
 	background-image: url(../images/money.png);
 }
 
-.quality {
+.texosnastka__quality {
 	background-image: url(../images/quality.png);
 }
 
-.car {
+.texosnastka__car {
 	background-position: 0 7px;
 	background-image: url(../images/car.png);
 }
 
-.step-index {
+.texosnastka__step-index {
 	border: 1px solid black;
 	border-radius: 50%;
 	font-size: 34px;
@@ -110,23 +110,19 @@ h3 {
 	top: 145px;
 }
 
-.description {
+.texosnastka__description {
 	position: relative;
 	padding-left: 80px;
 	line-height: 1.5;
 	box-sizing: border-box;
 }
 
-.description p {
+.texosnastka__step-description {
 	margin-top: 10px;
 }
 
-.step-image {
+.texosnastka__step-image {
 	margin-top: 20px;
-}
-
-.equipment {
-	
 }
 
 .row-flex {
@@ -134,52 +130,52 @@ h3 {
 	flex-flow: row wrap;
 }
 
-.equipment-examples {
+.texosnastka__equipment-examples {
 	padding: 10% 0;
 	text-align: center;
 	border: 2px solid #000;
 	height: 100%;
 }
 
-.equipment-examples h3 {
+.texosnastka__h3 {
 	font-size: 24px;
 }
 
-.equipment-examples p {
+.texosnastka__equipment-examples p {
 	font-size: 18px;
 }
 
-.image-example {
+.texosnastka__image-example {
 	height: 100%;
 	width: 100%;
 }
 
-.equipment-examples-image {
+.texosnastka__equipment-examples-image {
 	background-size: contain;
 	background-repeat: no-repeat;
 }
 
-.section-examples {
+.texosnastka__section-examples {
 	padding: 10% 0;
 	text-align: center;
 	border: 2px solid #000;
 }
 
-.section-examples h3 {
+.texosnastka__h3 {
 	font-size: 24px;
 }
 
-.section-examples p {
+.texosnastka__section-examples p {
 	font-size: 18px;
 }
 
-.section-examples-image {
+.texosnastka__section-examples-image {
 	background-size: contain;
 	background-repeat: no-repeat;
 	height: 300px;
 }
 
-.request {
+.texosnastka__request {
 	background-color: #000;
 	text-align: center;
 	padding-top: 20px;
@@ -187,27 +183,27 @@ h3 {
 	margin-top: 30px;
 }
 
-.retain-request {
+.texosnastka__retain-request {
 	color: #000;
 	background-color: #fff;
 	border: 1px solid #000;
-	border-radius: 10px; 
+	border-radius: 10px;
 	text-decoration: none;
 	font-size: 24px;
 	padding: 10px 20px;
 }
 
-.retain-request:hover {
+.texosnastka__retain-request:hover {
 	text-decoration: none;
 }
 
-.footer {
+.texosnastka__footer {
 	border-top: 2px solid #000;
 	text-align: center;
 	margin: 20px 0;
 }
 
-.company-brand {
+.texosnastka__company-brand {
 	font-size: 18px;
 	display: block;
 }
